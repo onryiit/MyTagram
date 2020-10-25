@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTagram</string>
+    <string name="Name_Surname">Name Surname</string>
+    <string name="location">Location</string>
+    <string name="Message">Message</string>
+    <string name="New_Post">New post</string>
+</resources>
